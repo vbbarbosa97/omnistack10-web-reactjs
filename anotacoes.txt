@@ -1,0 +1,6 @@
+1 - yarn create react-app nome_do_projeto
+2 - yarn add styled-components 
+3 - yarn add polished // utilizando o darken para opacidade
+4 - yarn add axios
+
+minuto 40
